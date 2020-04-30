@@ -3,7 +3,7 @@
 1. Download and install the [Java SE Development Kit 14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html) and make sure that it is set as PATH.
 2. Download and install the [IntelliJ IDEA](https://www.jetbrains.com/idea/download/).
 
-## Create the Project
+## Create the Project from Scratch
 1. Open the `IntelliJ IDEA` and click on *Create New Project*.
 2. Select `Maven` and then for the Project SDK, select the version 14, the one that was just installed.
 3. Toggle the option `Create from archetype` and then click on *Add Archetype*.
@@ -33,3 +33,5 @@
 3. Change the name to `Run`.
 4. On the `Comand line:` add `javafx:compile`.
 5. Scroll to the bottom where it says `Before Launch`, add a `Run Maven Goal` and on the `Comand line` enter `javafx:run`.
+## Open the Existing Project
+To open the existing project all that you have to do is open this folder in `IntelliJ IDEA`.
