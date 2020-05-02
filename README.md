@@ -31,7 +31,7 @@
 1. Click Add Configuration (top right).
 2. Click the `+` icon and select `Maven`.
 3. Change the name to `Run`.
-4. On the `Comand line:` add `javafx:compile`.
-5. Scroll to the bottom where it says `Before Launch`, add a `Run Maven Goal` and on the `Comand line` enter `javafx:run`.
+4. On the `Comand line:` add `javafx:run`.
+5. Scroll to the bottom where it says `Before Launch`, add a `Run Maven Goal` and on the `Comand line` enter `javafx:compile`.
 ## Open the Existing Project
 To open the existing project all that you have to do is open this folder in `IntelliJ IDEA`.
